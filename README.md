@@ -16,7 +16,7 @@ App standalone — HTML único com CSS, JS e imagens embutidas. Abre no navegado
 | --- | --- |
 | Ascent | 23 spots |
 | Split | 23 spots |
-| Lotus | em construção |
+| Lotus | 28 spots |
 | Haven, Breeze, Pearl, Fracture | placeholder |
 
 ## Source
